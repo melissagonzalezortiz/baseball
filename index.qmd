@@ -2,4 +2,6 @@
 title: "Exploring Baseball History"
 ---
 
-Welcome! This site explores the history of Major League Baseball through its data. Using the Lahman database, we'll uncover patterns and stories from across the game.
+Welcome! This site uses the Lahman database to explore Major League Baseball home runs across time. The home-runs-per-team-game chart shows the rate rising substantially from the early years of the league and reaching some of its highest levels in recent seasons. Shortened seasons are highlighted to put those comparisons in context.
+
+The career leaderboard is topped by Barry Bonds with 762 home runs, followed by Hank Aaron with 755 and Babe Ruth with 714. The Sluggers page also traces Bonds's home runs season by season. Explore the analyses using the Home runs and Sluggers pages in the navbar.
