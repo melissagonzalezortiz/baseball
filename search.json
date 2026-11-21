@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Exploring Baseball History",
+    "section": "",
+    "text": "Welcome! This site uses the Lahman database to explore Major League Baseball home runs across time. The home-runs-per-team-game chart shows the rate rising substantially from the early years of the league and reaching some of its highest levels in recent seasons. Shortened seasons are highlighted to put those comparisons in context.\nThe career leaderboard is topped by Barry Bonds with 762 home runs, followed by Hank Aaron with 755 and Babe Ruth with 714. The Sluggers page also traces Bonds’s home runs season by season. Explore the analyses using the Home runs and Sluggers pages in the navbar."
+  },
+  {
+    "objectID": "sluggers.html",
+    "href": "sluggers.html",
+    "title": "Sluggers",
+    "section": "",
+    "text": "Batting has about 128,000 rows, with one row per player per season per team going back to 1871. A player with a fifteen-season career therefore contributes roughly fifteen rows."
+  },
+  {
+    "objectID": "home-runs.html",
+    "href": "home-runs.html",
+    "title": "Home runs",
+    "section": "",
+    "text": "Warning: Removed 1 row containing missing values or values outside the scale range\n(`geom_point()`).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nyearID\ntotal_home_runs\ntotal_team_games\nhome_runs_per_game\n\n\n\n\n1981\n1781\n2788\n0.639\n\n\n1994\n3306\n3200\n1.033\n\n\n2019\n6776\n4858\n1.395\n\n\n2020\n2304\n1796\n1.283"
+  }
+]
